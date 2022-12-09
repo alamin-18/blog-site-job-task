@@ -10,7 +10,8 @@ const Navber = () => {
                 <input type="text" placeholder="Search" className="rounded-full border-2 h-10 w-96 " />
             </div>
             <div className="l">
-                <h1>Create accout</h1>
+            <label htmlFor="singUpModal" className="">Create accout</label>
+                
             </div>
 
         </div>
